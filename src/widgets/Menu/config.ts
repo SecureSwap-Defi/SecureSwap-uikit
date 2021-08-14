@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/goosedefi",
+        href: "",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -128,7 +128,7 @@ export const socials = [
       // },
       {
         label: "中文",
-        href: "https://t.me/goosefinancechinese",
+        href: "",
       },
       // {
       //   label: "Tiếng Việt",
@@ -136,7 +136,7 @@ export const socials = [
       // },
       {
         label: "Italiano",
-        href: "https://t.me/goosefinanceitalian",
+        href: "",
       },
       {
         label: "русский",
