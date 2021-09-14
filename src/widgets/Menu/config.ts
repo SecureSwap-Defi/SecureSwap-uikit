@@ -114,63 +114,12 @@ export const links = [
 ];
 
 export const socials = [
+
+
   {
     label: "Telegram",
     icon: "TelegramIcon",
-    items: [
-      {
-        label: "Group",
-        href: "https://t.me/joinchat/Pfr-mxi4_jZiZWFl",
-      },
-      // {
-      //   label: "Bahasa Indonesia",
-      //   href: "https://t.me/PancakeSwapIndonesia",
-      // },
-      {
-        label: "Channel",
-        href: "https://t.me/secureswap_channel",
-      },
-      // {
-      //   label: "Tiếng Việt",
-      //   href: "https://t.me/PancakeSwapVN",
-      // },
-      // {
-      //   label: "Italiano",
-      //   href: "",
-      // },
-      // {
-      //   label: "русский",
-      //   href: "https://t.me/goosefinancerussian",
-      // },
-      // {
-      //   label: "Türkiye",
-      //   href: "https://t.me/GooseFinanceTurkey",
-      // },
-      // {
-      //   label: "Português",
-      //   href: "https://t.me/PancakeSwapPortuguese",
-      // },
-      // {
-      //   label: "Español",
-      //   href: "https://t.me/goosefinancespanish",
-      // },
-      // {
-      //   label: "日本語",
-      //   href: "https://t.me/goosefinancejapanese",
-      // },
-      // {
-      //   label: "Français",
-      //   href: "https://t.me/goosefinancefrench",
-      // },
-      // {
-      //   label: "Announcements",
-      //   href: "https://t.me/goosefinanceann",
-      // },
-      // {
-      //   label: "Price Bot",
-      //   href: "https://t.me/BinanceRocketEGG",
-      // },
-    ],
+    href: "https://t.me/secureswapdefi",
   },
   {
     label: "Twitter",

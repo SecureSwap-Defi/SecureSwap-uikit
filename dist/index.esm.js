@@ -2211,20 +2211,7 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-        items: [
-            {
-                label: "Group",
-                href: "https://t.me/joinchat/Pfr-mxi4_jZiZWFl",
-            },
-            // {
-            //   label: "Bahasa Indonesia",
-            //   href: "https://t.me/PancakeSwapIndonesia",
-            // },
-            {
-                label: "Channel",
-                href: "https://t.me/secureswap_channel",
-            },
-        ],
+        href: "https://t.me/secureswapdefi",
     },
     {
         label: "Twitter",
