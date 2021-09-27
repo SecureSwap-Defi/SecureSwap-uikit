@@ -2363,6 +2363,9 @@ var PanelFooter = function (_a) {
                 React__default['default'].createElement(Icon$l, null))));
     }
     return (React__default['default'].createElement(Container$4, null,
+        React__default['default'].createElement("a", { href: "https://rugdoc.io/project/secureswap/" },
+            React__default['default'].createElement("img", { src: "https://rugdoc.io/assets/2021/06/rugdoc-review-badge-with-glow.png", alt: "rugdocimage", style: { width: "100%" } }),
+            "      "),
         React__default['default'].createElement(SocialEntry, null, cakePriceUsd ? (React__default['default'].createElement(PriceLink, { href: priceLink, target: "_blank" },
             React__default['default'].createElement(Icon$v, { width: "24px", mr: "8px" }),
             React__default['default'].createElement(Text, { color: "textSubtle", bold: true }, "$" + cakePriceUsd.toFixed(3)))) : (React__default['default'].createElement(Skeleton, { width: 80, height: 24 }))),
